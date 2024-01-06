@@ -1,0 +1,2 @@
+This Repository contains the most important real time interview questions asked in different companies Specially for **QAs and SDETs**. If you want to see these problem solving questions in video mode, Kindly find the below Youtube link. Also, Don't forget to like, Subscribe and Share the Channel so that maximum people could take benefit from it:
+https://www.youtube.com/watch?v=Q3xWm30BJ08&list=PL6gDpBYUcBoZnWMVL7yV89yh_MbWWeZWa
